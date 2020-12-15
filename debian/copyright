@@ -1,0 +1,16 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: lliurex-adobe-settings
+Upstream-Contact: Hector Garcia Huerta <hectorgh@gmail.com>
+Source: https://github.com/lliurex/lliurex-adobe-settings
+
+Files: *
+Copyright: Copyleft 2020 Hector Garcia Huerta <hectorgh@gmail.com>
+
+License: GPL-3+
+        This program is free software; you can redistribute it and/or modify
+        it under the terms of the GNU General Public License as published by
+        the Free Software Foundation; either version 3, or (at your option)
+        any later version.
+        on any Debian system you can find a copy of the newest GNU GPL at
+        '/usr/share/common-licenses/GPL'
+

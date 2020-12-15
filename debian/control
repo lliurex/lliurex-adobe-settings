@@ -1,0 +1,15 @@
+source: lliurex-adobe-settings
+Section: misc
+Priority: standard
+Maintainer: Equipo LliureX <lliurex@gva.es>
+Uploaders: Luis Antonio Garcia Gisbert <garcia_luigis@gva.es>, Angel Berlanas Vicente <aberlanas.gva@gmail.com>, Javier García Escribano <garcia_javesc@gva.es>, Raul Rodrigo Segura <raurodse.gva@gmail.com>, Alfons Lloret Sananton <alloret.gva@gmail.com>, Enrique Medina Gremaldos <lth.gva@gmail.com>, Hector Garcia Huerta <lliurex_devel1@edu.gva.es>, Ignacio Vidal Hurtado <vidal_joshur@gva.es>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.9.6
+
+Package: lliurex-valencianize
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Suggests: palemoon | firefox-esr
+Description:  Adobe Flash Plugin settings
+ This package allows access to Itaca past 31 December 2021
+
