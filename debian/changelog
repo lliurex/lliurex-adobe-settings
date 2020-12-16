@@ -1,3 +1,9 @@
+lliurex-adobe-settings (0.1.1) bionic; urgency=medium
+
+  * dummy upgrade
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Wed, 16 Dec 2020 10:54:51 +0100
+
 lliurex-adobe-settings (0.1) bionic; urgency=medium
 
   * Initial release.
