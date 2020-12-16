@@ -6,7 +6,7 @@ Uploaders: Luis Antonio Garcia Gisbert <garcia_luigis@gva.es>, Angel Berlanas Vi
 Build-Depends: debhelper (>= 7)
 Standards-Version: 3.9.6
 
-Package: lliurex-valencianize
+Package: lliurex-adobe-settings
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Suggests: palemoon | firefox-esr
